@@ -1,16 +1,24 @@
-### Hi there 👋
+[![My Blog](https://img.shields.io/badge/Web-click%20me!-brightgreen)](https://kimyoungho.ml/)  
 
-<!--
-**hv6kyh/hv6kyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Node.js` 
+`TypeScript` 
+`NestJS` 
+`AWS RDS` 
+`AWS ElastiCache` 
+`AWS EC2` 
+`ExpressJS` 
+`MySQL` 
+`AWS API Gateway` 
+`AWS DynamoDB` 
+`Angular` 
+`AWS S3` 
+`AWS CloudWatch` 
+`Redis` 
+`AWS CloudFormation` 
+`AWS Lambda` 
+`AWS CloudFront`  
 
-Here are some ideas to get you started:
+만 1년차 주니어 백엔드 개발자입니다.  
+주로 Nodejs 기반 웹 프레임워크(Express, Nestjs)를 사용하여 웹 서버를 개발하고 있습니다.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+블로그에서 더 많은 정보를 확인하실 수 있습니다! (상단 뱃지를 클릭해주세요)  
